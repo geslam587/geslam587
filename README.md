@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eslam and I'm a web developer I found my passion for creating efficient, user-friendly web applications. As a <br>front-end developer, I continuously seek new challenges to further enhance my expertise, particularly in <br>technologies like JavaScript, React.js, Angular.</p>
+<p align="left">My name is Eslam and I'm a web developer I found my passion for creating efficient, user-friendly web applications. <br> I continuously seek new challenges to further enhance my expertise, particularly in <br>technologies like JavaScript, React.js, Angular.</p>
 
 ###
 
